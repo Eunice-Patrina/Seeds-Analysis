@@ -23,4 +23,7 @@ Real
 ### Instances
 210
 
+
+## Seed Examination
+#### it is clear that the k = 3 is appropiate
 ![seed plot](https://github.com/Eunice-Patrina/Seeds-Analysis/assets/43789261/d6262ac1-6570-49a2-b2fb-1ed9710166a6)
