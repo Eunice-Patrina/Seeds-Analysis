@@ -22,3 +22,5 @@ Real
 
 ### Instances
 210
+
+![seed plot](https://github.com/Eunice-Patrina/Seeds-Analysis/assets/43789261/d6262ac1-6570-49a2-b2fb-1ed9710166a6)
